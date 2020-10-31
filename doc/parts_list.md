@@ -6,3 +6,5 @@ Resistors:
 Capacitors:
 Buttons:
 Connectors:
+Case:
+
